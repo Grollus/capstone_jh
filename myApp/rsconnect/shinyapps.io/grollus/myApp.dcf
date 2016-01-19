@@ -1,0 +1,8 @@
+name: myApp
+account: grollus
+server: shinyapps.io
+bundleId: 348390
+url: https://adamt.shinyapps.io/myApp/
+when: 1452630176.88676
+asMultiple: FALSE
+asStatic: FALSE
